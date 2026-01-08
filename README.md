@@ -35,7 +35,7 @@ You need the following...
 
 Today's meeting notes...
 
-1. Jeremy Myers
+1. John Smith
 
 Working on holotable issues...
 ```
@@ -69,12 +69,12 @@ You need the following...
 
 Today's meeting notes...
 
-## 1. Jeremy Myers
+## 1. John Smith
 
 [DocTitle: Installation Guide]
 [Path: guides/installation.md]
-[Section: Installation Guide > 2025 07 15 > 1. Jeremy Myers]
-[Aliases: Jeremy, Myers]
+[Section: Installation Guide > 2025 07 15 > 1. John Smith]
+[Aliases: John, Smith]
 
 Working on holotable issues...
 ```
